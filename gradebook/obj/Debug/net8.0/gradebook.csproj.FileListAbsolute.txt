@@ -1,0 +1,14 @@
+C:\Users\emmad\OneDrive\Desktop\318 assignment\gradebook\bin\Debug\net8.0\gradebook.exe
+C:\Users\emmad\OneDrive\Desktop\318 assignment\gradebook\bin\Debug\net8.0\gradebook.deps.json
+C:\Users\emmad\OneDrive\Desktop\318 assignment\gradebook\bin\Debug\net8.0\gradebook.runtimeconfig.json
+C:\Users\emmad\OneDrive\Desktop\318 assignment\gradebook\bin\Debug\net8.0\gradebook.dll
+C:\Users\emmad\OneDrive\Desktop\318 assignment\gradebook\bin\Debug\net8.0\gradebook.pdb
+C:\Users\emmad\OneDrive\Desktop\318 assignment\gradebook\obj\Debug\net8.0\gradebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmad\OneDrive\Desktop\318 assignment\gradebook\obj\Debug\net8.0\gradebook.AssemblyInfoInputs.cache
+C:\Users\emmad\OneDrive\Desktop\318 assignment\gradebook\obj\Debug\net8.0\gradebook.AssemblyInfo.cs
+C:\Users\emmad\OneDrive\Desktop\318 assignment\gradebook\obj\Debug\net8.0\gradebook.csproj.CoreCompileInputs.cache
+C:\Users\emmad\OneDrive\Desktop\318 assignment\gradebook\obj\Debug\net8.0\gradebook.dll
+C:\Users\emmad\OneDrive\Desktop\318 assignment\gradebook\obj\Debug\net8.0\refint\gradebook.dll
+C:\Users\emmad\OneDrive\Desktop\318 assignment\gradebook\obj\Debug\net8.0\gradebook.pdb
+C:\Users\emmad\OneDrive\Desktop\318 assignment\gradebook\obj\Debug\net8.0\gradebook.genruntimeconfig.cache
+C:\Users\emmad\OneDrive\Desktop\318 assignment\gradebook\obj\Debug\net8.0\ref\gradebook.dll

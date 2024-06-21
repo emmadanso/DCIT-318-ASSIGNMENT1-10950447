@@ -1,0 +1,14 @@
+C:\Users\emmad\OneDrive\Desktop\318 assignment\ticket\bin\Debug\net8.0\ticket.exe
+C:\Users\emmad\OneDrive\Desktop\318 assignment\ticket\bin\Debug\net8.0\ticket.deps.json
+C:\Users\emmad\OneDrive\Desktop\318 assignment\ticket\bin\Debug\net8.0\ticket.runtimeconfig.json
+C:\Users\emmad\OneDrive\Desktop\318 assignment\ticket\bin\Debug\net8.0\ticket.dll
+C:\Users\emmad\OneDrive\Desktop\318 assignment\ticket\bin\Debug\net8.0\ticket.pdb
+C:\Users\emmad\OneDrive\Desktop\318 assignment\ticket\obj\Debug\net8.0\ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmad\OneDrive\Desktop\318 assignment\ticket\obj\Debug\net8.0\ticket.AssemblyInfoInputs.cache
+C:\Users\emmad\OneDrive\Desktop\318 assignment\ticket\obj\Debug\net8.0\ticket.AssemblyInfo.cs
+C:\Users\emmad\OneDrive\Desktop\318 assignment\ticket\obj\Debug\net8.0\ticket.csproj.CoreCompileInputs.cache
+C:\Users\emmad\OneDrive\Desktop\318 assignment\ticket\obj\Debug\net8.0\ticket.dll
+C:\Users\emmad\OneDrive\Desktop\318 assignment\ticket\obj\Debug\net8.0\refint\ticket.dll
+C:\Users\emmad\OneDrive\Desktop\318 assignment\ticket\obj\Debug\net8.0\ticket.pdb
+C:\Users\emmad\OneDrive\Desktop\318 assignment\ticket\obj\Debug\net8.0\ticket.genruntimeconfig.cache
+C:\Users\emmad\OneDrive\Desktop\318 assignment\ticket\obj\Debug\net8.0\ref\ticket.dll

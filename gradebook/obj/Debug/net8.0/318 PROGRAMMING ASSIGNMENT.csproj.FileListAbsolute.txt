@@ -1,0 +1,14 @@
+C:\Users\emmad\OneDrive\Desktop\318 assignment\318 PROGRAMMING ASSIGNMENT\bin\Debug\net8.0\318 PROGRAMMING ASSIGNMENT.exe
+C:\Users\emmad\OneDrive\Desktop\318 assignment\318 PROGRAMMING ASSIGNMENT\bin\Debug\net8.0\318 PROGRAMMING ASSIGNMENT.deps.json
+C:\Users\emmad\OneDrive\Desktop\318 assignment\318 PROGRAMMING ASSIGNMENT\bin\Debug\net8.0\318 PROGRAMMING ASSIGNMENT.runtimeconfig.json
+C:\Users\emmad\OneDrive\Desktop\318 assignment\318 PROGRAMMING ASSIGNMENT\bin\Debug\net8.0\318 PROGRAMMING ASSIGNMENT.dll
+C:\Users\emmad\OneDrive\Desktop\318 assignment\318 PROGRAMMING ASSIGNMENT\bin\Debug\net8.0\318 PROGRAMMING ASSIGNMENT.pdb
+C:\Users\emmad\OneDrive\Desktop\318 assignment\318 PROGRAMMING ASSIGNMENT\obj\Debug\net8.0\318 PROGRAMMING ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmad\OneDrive\Desktop\318 assignment\318 PROGRAMMING ASSIGNMENT\obj\Debug\net8.0\318 PROGRAMMING ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\emmad\OneDrive\Desktop\318 assignment\318 PROGRAMMING ASSIGNMENT\obj\Debug\net8.0\318 PROGRAMMING ASSIGNMENT.AssemblyInfo.cs
+C:\Users\emmad\OneDrive\Desktop\318 assignment\318 PROGRAMMING ASSIGNMENT\obj\Debug\net8.0\318 PROGRAMMING ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\emmad\OneDrive\Desktop\318 assignment\318 PROGRAMMING ASSIGNMENT\obj\Debug\net8.0\318 PROGRAMMING ASSIGNMENT.dll
+C:\Users\emmad\OneDrive\Desktop\318 assignment\318 PROGRAMMING ASSIGNMENT\obj\Debug\net8.0\refint\318 PROGRAMMING ASSIGNMENT.dll
+C:\Users\emmad\OneDrive\Desktop\318 assignment\318 PROGRAMMING ASSIGNMENT\obj\Debug\net8.0\318 PROGRAMMING ASSIGNMENT.pdb
+C:\Users\emmad\OneDrive\Desktop\318 assignment\318 PROGRAMMING ASSIGNMENT\obj\Debug\net8.0\318 PROGRAMMING ASSIGNMENT.genruntimeconfig.cache
+C:\Users\emmad\OneDrive\Desktop\318 assignment\318 PROGRAMMING ASSIGNMENT\obj\Debug\net8.0\ref\318 PROGRAMMING ASSIGNMENT.dll
